@@ -1,0 +1,3 @@
+
+apikey = 'NYccENDwcmYnVI9mMu3sGlS9BW6XO6IkDiFaN1OYPFJrmuL0PQWVEN0mJrcmo8JZ'
+secretkey = 'oUXKjZvt89KNrPqO5XBRR0J1ioS3stnfBoI5YtUUXnCzaIquVNtb9Hgo4XnWmdJ2'
